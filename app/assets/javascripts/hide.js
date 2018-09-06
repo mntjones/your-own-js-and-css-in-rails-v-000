@@ -1,3 +1,3 @@
 function hideWhenClicked() {
-  getElementById
+  getElementById("hid")
 }
