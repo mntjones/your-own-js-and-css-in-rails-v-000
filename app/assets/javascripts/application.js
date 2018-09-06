@@ -14,5 +14,5 @@
 
 
 
-// require hide
+//= require hide
 
