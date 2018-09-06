@@ -12,8 +12,7 @@
 //
 //= require jquery
 
-/* 
 
-*= require hide
 
-*/
+// require hide
+
